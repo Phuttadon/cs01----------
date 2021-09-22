@@ -1,6 +1,6 @@
 from tkinter import *
 root=Tk()
-root.title("เครื่องคิดเลข")
+root.title("First GUI")
 myText= Label(text="My name is ",fg="blue",font=20).grid(row=0,column=0)
 myText= Label(text="Phuttadon",fg="red",font=20).grid(row=1,column=1)
 myText= Label(text="Khuntawong",fg="green",font=20).grid(row=3,column=2)
